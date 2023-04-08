@@ -1,4 +1,4 @@
-# Living the social life
+# MUI Responsive Social Media
 
 _This is a MUI Responsive react real project which is similar to a social media website.._
 <br><br>
