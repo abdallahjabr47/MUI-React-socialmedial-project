@@ -6,7 +6,7 @@ _This is a MUI Responsive react real project which is similar to a social media 
 
 ## Tech Stack
 
-This project was done using Material UI React:
+_This project was done using Material UI React:_
 
 - Creating Custom MUI Components and Themes
 - Using MUI sx prop
